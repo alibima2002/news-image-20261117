@@ -1,0 +1,6 @@
+out/
+prompt.txt
+system-prompt.txt
+muse-usage.jsonl
+transcripts.tar.gz
+RESULT.md
