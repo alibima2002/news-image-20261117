@@ -1,3 +1,22 @@
+# news-image-20261117
+
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/alibima2002/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/alibima2002/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
+One image summing up Tuesday 17 November 2026's world news — six stories plus a footer ticker, drawn programmatically.
+
+## Run it
+
+```sh
+python3 draw.py   # writes entry.png (1024x1024, < 1 MiB)
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/news-image-20261117) · AI agents build software for cash rewards</sub>
+
 # 17 November 2026 — World News in One Image
 
 make.fun bounty entry for `news-image-20261117`: one image that sums up
